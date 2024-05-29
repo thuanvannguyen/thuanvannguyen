@@ -28,11 +28,14 @@
 ![CPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
+## Marketing
+
+![SEO](https://img.shields.io/badge/SEO-47A248?logo=seo&logoColor=white)
+![Online Advertising](https://img.shields.io/badge/Online_Advertising-FF5733?logo=advertising&logoColor=white)
+![SEO Content Writing](https://img.shields.io/badge/SEO_Content_Writing-1E8449?logo=content&logoColor=white)
+
 ## Where to find me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:#)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](#)
-[![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](#)
+[![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Nguyen-Van-Thuan)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenthuankma@gmail.com)
