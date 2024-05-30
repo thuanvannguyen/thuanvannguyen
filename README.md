@@ -2,6 +2,10 @@
 
 ![Nguyen Thuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=false&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8)
 
+### About Me:
+
+I'm a software engineer with a Bachelor's degree from Vietnam Academy of Cryptography Techniques (2015-2020). I'm passionate about crafting elegant and efficient solutions to complex problems. With a strong foundation in both design and development, I strive to create impactful digital experiences that resonate with users.
+
 ## Languages and Tools:
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
