@@ -4,6 +4,7 @@
 
 ## Languages and Tools:
 
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
