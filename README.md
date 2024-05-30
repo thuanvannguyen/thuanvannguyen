@@ -1,4 +1,4 @@
-# Hi 👋, I'm NguyenThuan!
+# Hi 👋, I'm Thuan!
 
 ![Nguyen Thuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=false&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8)
 
