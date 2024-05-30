@@ -32,6 +32,7 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ## Cloud:
 
 ![CPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white)
 
