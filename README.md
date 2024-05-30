@@ -32,7 +32,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white)
 
-## Marketing
+## Digital Marketing Abilities
 
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0054A6?logo=googleanalytics&logoColor=white)
