@@ -34,9 +34,15 @@
 
 ## Marketing
 
+![Content](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
+![Conversion Rate Optimization (CRO)](https://img.shields.io/badge/CRO-48C9B0?logo=convertkit&logoColor=white)
+![Influencer Marketing](https://img.shields.io/badge/Influencer%20Marketing-FF69B4?logo=instagram&logoColor=white)
+![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0054A6?logo=googleanalytics&logoColor=white)
+![Online Advertising](https://img.shields.io/badge/Online_Advertising-FF5733?logo=googleads&logoColor=white)
+![Pay-Per-Click (PPC) Advertising](https://img.shields.io/badge/PPC%20Advertising-FF4500?logo=googleads&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?logo=seo&logoColor=white)
-![Online Advertising](https://img.shields.io/badge/Online_Advertising-FF5733?logo=advertising&logoColor=white)
-![SEO Content Writing](https://img.shields.io/badge/SEO_Content_Writing-1E8449?logo=content&logoColor=white)
+![SEO Content Writing](https://img.shields.io/badge/SEO_Content_Writing-1E8449?logo=writer&logoColor=white)
+![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-1DA1F2?logo=twitter&logoColor=white)
 
 ## Where to find me
 
