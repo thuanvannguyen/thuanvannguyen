@@ -51,6 +51,4 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenthuankma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-van-thuan-987b8415a)
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
