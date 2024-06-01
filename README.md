@@ -5,12 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8" alt="Top Langs" style="height: 195px;">
 </div>
 
-## About Me:
+## About Me
 
 I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of Cryptography Techniques (2015 - 2020)**, a prestigious institution known for its focus on cybersecurity and cryptography. I'm passionate about crafting elegant and efficient solutions to complex problems. With a strong foundation in both design and development, I strive to create impactful digital experiences that resonate with users.
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
-## Languages and Tools:
+## Languages and Tools
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
@@ -34,21 +34,21 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
-## Cloud:
+## Cloud
 
 ![CPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white)
 
-## Digital Marketing Abilities:
+## Digital Marketing Abilities
 
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0054A6?logo=googleanalytics&logoColor=white)
 ![Pay-Per-Click (PPC) Advertising](https://img.shields.io/badge/PPC%20Advertising-FF4500?logo=googleads&logoColor=white)
 ![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-1DA1F2?logo=twitter&logoColor=white)
 
-## Where to find me:
+## Where to find me
 
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/thuanvannguyen)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
