@@ -7,9 +7,8 @@
 
 ## About Me:
 
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-
 I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of Cryptography Techniques (2015 - 2020)**, a prestigious institution known for its focus on cybersecurity and cryptography. I'm passionate about crafting elegant and efficient solutions to complex problems. With a strong foundation in both design and development, I strive to create impactful digital experiences that resonate with users.
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
 ## Languages and Tools:
 
