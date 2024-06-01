@@ -4,6 +4,8 @@
 
 ## About Me:
 
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+
 I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of Cryptography Techniques (2015 - 2020)**, a prestigious institution known for its focus on cybersecurity and cryptography. I'm passionate about crafting elegant and efficient solutions to complex problems. With a strong foundation in both design and development, I strive to create impactful digital experiences that resonate with users.
 
 ## Languages and Tools:
@@ -50,5 +52,3 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenthuankma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-van-thuan-987b8415a)
-
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
