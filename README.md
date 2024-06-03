@@ -34,9 +34,10 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
-## Algorithms (_Click the badge to visit my LeetCode profile_)
+## Algorithms
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
+_(Click the badge to visit my LeetCode profile)_
 
 ## Cloud
 
