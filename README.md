@@ -41,16 +41,16 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white)
 
+## Algorithms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
+
 ## Digital Marketing Abilities
 
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0054A6?logo=googleanalytics&logoColor=white)
 ![Pay-Per-Click (PPC) Advertising](https://img.shields.io/badge/PPC%20Advertising-FF4500?logo=googleads&logoColor=white)
 ![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-1DA1F2?logo=twitter&logoColor=white)
-
-## Algorithms
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
 
 ## Where to find me
 
