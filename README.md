@@ -50,7 +50,7 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 
 ## Where to find me
 
-_Click the badges to visit my profiles_
+_Click the badges to visit my profiles_<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/thuanvannguyen)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
