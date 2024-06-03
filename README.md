@@ -37,7 +37,7 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ## Algorithms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)<br>
-_Click the badge to visit my LeetCode profile_
+_*Click the badge to visit my LeetCode profile_
 
 ## Cloud
 
