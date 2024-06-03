@@ -48,6 +48,10 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Pay-Per-Click (PPC) Advertising](https://img.shields.io/badge/PPC%20Advertising-FF4500?logo=googleads&logoColor=white)
 ![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-1DA1F2?logo=twitter&logoColor=white)
 
+## Algorithms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
+
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/thuanvannguyen)
