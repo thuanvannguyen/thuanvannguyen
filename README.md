@@ -55,4 +55,4 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenthuankma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-van-thuan-987b8415a)<br>
-_Click the badges to find me*._
+_<font color='red'>Click the badges to find me\*._</font>
