@@ -52,9 +52,9 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ## Digital Marketing
 
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
-![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0054A6?logo=googleanalytics&logoColor=white)
-![Pay-Per-Click (PPC) Advertising](https://img.shields.io/badge/PPC%20Advertising-FF4500?logo=googleads&logoColor=white)
-![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-1DA1F2?logo=twitter&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email%20Marketing-D14836?logo=gmail&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
+![Video Marketing](https://img.shields.io/badge/Video%20Marketing-FF0000?logo=youtube&logoColor=white)
 
 ## Where to find me
 
