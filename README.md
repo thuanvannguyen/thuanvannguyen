@@ -13,10 +13,9 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ## Environments, Testing, Other
 
