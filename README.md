@@ -10,30 +10,33 @@
 I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of Cryptography Techniques (2015 - 2020)**, a prestigious institution known for its focus on cybersecurity and cryptography. I'm passionate about crafting elegant and efficient solutions to complex problems. With a strong foundation in both design and development, I strive to create impactful digital experiences that resonate with users.
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
-## Languages and Tools
+## Languages
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+## Environments, Testing, Other
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+
+## Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## Cloud
 
