@@ -17,7 +17,7 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
-## Environments, Testing, Other
+## Environments
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
