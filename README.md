@@ -4,11 +4,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="Nguyen Thuan's GitHub stats" style="height: 195px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8" alt="Top Langs" style="height: 195px;">
 </div>
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
 ## About Me
 
 I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of Cryptography Techniques (2015 - 2020)**, a prestigious institution known for its focus on cybersecurity and cryptography. I'm passionate about crafting elegant and efficient solutions to complex problems. With a strong foundation in both design and development, I strive to create impactful digital experiences that resonate with users.
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
 ## Languages
 
