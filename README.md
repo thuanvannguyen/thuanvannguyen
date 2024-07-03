@@ -48,6 +48,7 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
 
 ## Digital Marketing Abilities
 
@@ -61,5 +62,4 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/thuanvannguyen)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenthuankma@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-van-thuan-987b8415a)<br>
