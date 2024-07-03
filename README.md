@@ -38,19 +38,20 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-## Testing, Other
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
-
 ## Cloud
 
 ![CPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white)
+
+## Testing, Other
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 
 ## Digital Marketing Abilities
 
