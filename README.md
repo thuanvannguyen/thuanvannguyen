@@ -49,7 +49,7 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
 
-## Digital Marketing Abilities
+## Digital Marketing
 
 ![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
 ![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0054A6?logo=googleanalytics&logoColor=white)
