@@ -32,16 +32,18 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 
 ## Tools
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+## Testing, Other
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 
 ## Cloud
 
