@@ -40,6 +40,13 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?logo=adobe%20premiere&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+## Digital Marketing
+
+![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
+![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email%20Marketing-D14836?logo=gmail&logoColor=white)
+![Video Marketing](https://img.shields.io/badge/Video%20Marketing-FF0000?logo=youtube&logoColor=white)
+
 ## Testing, Other
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -48,13 +55,6 @@ I'm a software engineer with a Bachelor's degree from the **Vietnam Academy of C
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
-
-## Digital Marketing
-
-![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
-![Content Marketing](https://img.shields.io/badge/Content%20Marketing-FF6F61?logo=contentful&logoColor=white)
-![Email Marketing](https://img.shields.io/badge/Email%20Marketing-D14836?logo=gmail&logoColor=white)
-![Video Marketing](https://img.shields.io/badge/Video%20Marketing-FF0000?logo=youtube&logoColor=white)
 
 ## Where to find me
 
