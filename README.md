@@ -16,11 +16,7 @@ and businesses. Contribute to the prosperous development of the company.
 
 ## Languages
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
 
 ## Environments
 
