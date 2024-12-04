@@ -23,14 +23,17 @@ and businesses. Contribute to the prosperous development of the company.
 
 ## Environments
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?logo=angularjs&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
 
 ## Cloud platforms
 
