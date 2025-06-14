@@ -8,7 +8,7 @@
 ## About Me
 
 Aim to become a Project Manager, leading a team and contributing to the long-term growth of the company.<br/>
-Work in a civilized and professional environment that offers opportunities for advancement and learning.>br/>
+Work in a civilized and professional environment that offers opportunities for advancement and learning.<br/>
 Build and optimize systems/products that meet the needs and requirements of clients and businesses. Contribute to the prosperous development of the company.
 
 ## Languages
