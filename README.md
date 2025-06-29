@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thuan (Mason)!
+# Hi 👋, I'm Thuan (Mason).
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="Nguyen Thuan's GitHub stats" style="height: 195px;">
