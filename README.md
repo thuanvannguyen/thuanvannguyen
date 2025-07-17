@@ -7,9 +7,9 @@
 
 ## Career Goals
 
-Aim to become a Project Manager, leading a team and contributing to the long-term growth of the company.<br/>
-Work in a civilized and professional environment that offers opportunities for advancement and learning.<br/>
-Build and optimize systems/products that meet the needs and requirements of clients and businesses. Contribute to the prosperous development of the company.
+I aim to become a Project Manager, leading a strong team and driving long-term growth for the company.</br>
+I’m looking for a professional and respectful work environment where I can keep learning and growing.</br>
+My passion is building and optimizing systems or products that truly meet client and business needs — and make a real impact on the company’s success.
 
 ## Programming Languages
 
