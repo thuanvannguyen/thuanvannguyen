@@ -9,7 +9,7 @@
 
 I aim to become a Project Manager, leading a strong team and driving long-term growth for the company.</br>
 I’m looking for a professional and respectful work environment where I can keep learning and growing.</br>
-My passion is building and optimizing systems or products that truly meet client and business needs — and make a real impact on the company’s success.
+My passion is building and optimizing systems or products that truly meet client and business needs and make a real impact on the company’s success.
 
 ## Programming Languages
 
