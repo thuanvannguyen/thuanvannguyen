@@ -3,14 +3,16 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=thuanvannguyen&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
+  src="https://streak-stats.demolab.com?user=thuanvannguyen&theme=github-dark-blue&hide_border=true"
   height="170"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&layout=compact&theme=github_dark&hide_border=true"
   height="170"
 />
+
+</div>
 
 </div>
 
