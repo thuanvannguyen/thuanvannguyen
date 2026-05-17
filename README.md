@@ -1,68 +1,99 @@
 # Hi 👋, I'm Thuan (Mason)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="Nguyen Thuan's GitHub stats" style="height: 195px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8" alt="Top Langs" style="height: 195px;">
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=thuanvannguyen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_radius=15" 
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvannguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=8" 
+    height="180"
+  />
 </div>
 
-## Career Goals
+---
 
-- I aim to become a Project Manager, leading a strong team and driving long-term growth for the company.</br>
-- I’m looking for a professional and respectful work environment where I can keep learning and growing.</br>
-- My passion is building and optimizing systems or products that truly meet client and business needs and make a real impact on the company’s success.
+## 🚀 Career Goals
 
-## Programming Languages
+- Become a **Project Manager** capable of leading strong teams and driving sustainable company growth.
+- Work in a **professional and respectful environment** where continuous learning and improvement are encouraged.
+- Build and optimize products that truly solve business problems and create meaningful impact.
 
-![C](https://img.shields.io/badge/C-36454F?logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-36454F?logo=javascript&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-36454F?logo=php&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-36454F?logo=java&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-36454F?logo=node.js&logoColor=white)
+---
 
-## Frameworks & Platforms
+## 💻 Programming Languages
 
-![Laravel](https://img.shields.io/badge/Laravel-36454F?logo=laravel&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-36454F?logo=nestjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-36454F?logo=react&logoColor=white) 
-![Strapi](https://img.shields.io/badge/Strapi-36454F?logo=strapi&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-36454F?logo=wordpress&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-36454F?logo=vue.js&logoColor=white) 
-![AngularJS](https://img.shields.io/badge/AngularJS-36454F?logo=angularjs&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-36454F?logo=android&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-36454F?logo=react&logoColor=white)
+![C](https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=3C873A)
 
-## Cloud & Deployment Platforms
+---
 
-![CPanel](https://img.shields.io/badge/cPanel-36454F?logo=cpanel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-36454F?logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-36454F?logo=vercel&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-36454F?logo=vultr&logoColor=white)
+## ⚡ Frameworks & Platforms
 
-## Design & Prototyping Tools
+![Laravel](https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![NestJS](https://img.shields.io/badge/NestJS-1F2937?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-1F2937?style=for-the-badge&logo=vue.js&logoColor=42B883)
+![AngularJS](https://img.shields.io/badge/AngularJS-1F2937?style=for-the-badge&logo=angularjs&logoColor=DD0031)
+![Strapi](https://img.shields.io/badge/Strapi-1F2937?style=for-the-badge&logo=strapi&logoColor=8E75FF)
+![WordPress](https://img.shields.io/badge/WordPress-1F2937?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Android](https://img.shields.io/badge/Android-1F2937?style=for-the-badge&logo=android&logoColor=3DDC84)
+![React Native](https://img.shields.io/badge/React_Native-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-36454F?logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-36454F?logo=adobe%20premiere&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-36454F?logo=figma&logoColor=white)
+---
 
-## Digital Marketing Tools & Skills
+## ☁️ Cloud & Deployment
 
-![SEO](https://img.shields.io/badge/SEO-36454F?logo=google&logoColor=white)
-![Content Marketing](https://img.shields.io/badge/Content%20Marketing-36454F?logo=contentful&logoColor=white)
-![Email Marketing](https://img.shields.io/badge/Email%20Marketing-36454F?logo=gmail&logoColor=white)
-![Video Marketing](https://img.shields.io/badge/Video%20Marketing-36454F?logo=youtube&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1F2937?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Vultr](https://img.shields.io/badge/Vultr-1F2937?style=for-the-badge&logo=vultr&logoColor=007BFC)
+![cPanel](https://img.shields.io/badge/cPanel-1F2937?style=for-the-badge&logo=cpanel&logoColor=FF6C2C)
 
-## Dev Tools & Utilities
+---
 
-![Postman](https://img.shields.io/badge/Postman-36454F?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-36454F?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-36454F?logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-36454F?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-36454F?logo=mysql&logoColor=white)
-[![LeetCode](https://img.shields.io/badge/LeetCode-36454F?logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenthuankma/)
+## 🎨 Design & Creative Tools
 
-## Contact & Socials
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-1F2937?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-1F2937?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 
-[![Github](https://img.shields.io/badge/GitHub-36454F?logo=github&logoColor=white)](https://github.com/thuanvannguyen)
-[![GitLab](https://img.shields.io/badge/GitLab-36454F?logo=github&logoColor=white)](https://gitlab.com/thuannbjsc)
-[![Email](https://img.shields.io/badge/Email-36454F?logo=gmail&logoColor=white)](mailto:nguyenthuankma@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-36454F?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-van-thuan-987b8415a)<br>
+---
+
+## 📈 Digital Marketing
+
+![SEO](https://img.shields.io/badge/SEO-1F2937?style=for-the-badge&logo=google&logoColor=4285F4)
+![Content Marketing](https://img.shields.io/badge/Content_Marketing-1F2937?style=for-the-badge&logo=contentful&logoColor=2478CC)
+![Email Marketing](https://img.shields.io/badge/Email_Marketing-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335)
+![Video Marketing](https://img.shields.io/badge/Video_Marketing-1F2937?style=for-the-badge&logo=youtube&logoColor=FF0000)
+
+---
+
+## 🛠 Dev Tools & Database
+
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+---
+
+## 🌐 Contact & Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thuanvannguyen)
+[![GitLab](https://img.shields.io/badge/GitLab-1F2937?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/thuannbjsc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nguyen-van-thuan-987b8415a)
+[![Email](https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nguyenthuankma@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/nguyenthuankma/)
+
+---
+
+<div align="center">
+
+### ✨ “Code with purpose. Build with impact.” ✨
+
+</div>
